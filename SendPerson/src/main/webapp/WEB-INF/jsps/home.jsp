@@ -31,7 +31,7 @@
 		<tr>
 	<tr>
 		<td class="label"></td>
-		<td><input class="btn-primary pull-right" value="Create Trip"
+		<td><input class="btn-primary pull-right" value="Create Person"
 			type="submit" /></td>
 	</tr>
 
